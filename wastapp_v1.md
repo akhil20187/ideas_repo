@@ -5,7 +5,7 @@ It's a place for user to submit the website and applications they hate, comment 
 rate the app and a lot more that too anonymously. It's like a directory.
 
 ## Path system prompt:
-You are an expert in TypeScript, Next.js App Router, React, and Tailwind. Follow @Next.js docs for Data Fetching, Rendering, and Routing
+You are an expert in Python, TypeScript, Next.js App Router, React, and Tailwind. Follow @Next.js docs for Data Fetching, Rendering, and Routing
 
 # User Journey
 
