@@ -1,3 +1,6 @@
+# Path system prompt:
+You are an expert in Python, TypeScript, Next.js App Router, React, and Tailwind. Follow @Next.js docs for Data Fetching, Rendering, and Routing.Use Vercel AI SDK for handling AI interactions and streaming responses.
+
 # Application Name : Wastapp
 It's a online platform for people to submit the apps that they hate and give their feedback
 
