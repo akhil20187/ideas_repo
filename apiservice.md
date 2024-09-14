@@ -24,7 +24,7 @@ The page will also have API endpoint details with details about the INPUT parame
 It will have a description of each api endpoint in detail. 
 The page will also have details about the amount consumed per API usage that will be deducted against the credits given.
 
-# Genearate unique API Token
+# Generate unique API Token
 If any user has to use the API, they need to signup with social login. If they have an existing account, they can SignIn.
 Once the user has logged in, on the My Accounts page the user can see the option to Generate API keys
 Users can generate a unique API key, which will be secure. 
