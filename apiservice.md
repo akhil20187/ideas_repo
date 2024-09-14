@@ -16,7 +16,7 @@ All the applications will be built on Fast API.
 The home page will have a repository of all the Applications with their Names, Description
 The user, if logged in, should be able to see the credits available on the top corner of the Navigation Bar
 
-# Application Page
+# Applications Detail Page
 Every application will have a dedicated page, which describes the Application 
 It will tell about the Input Schema and the Output Schema from the API.
 The sample outputs from the API will be available for the user to check in the Dedicated Page
@@ -26,17 +26,20 @@ The page will also have details about the amount consumed per API usage that wil
 
 # Genearate unique API Token
 If any user has to use the API, they need to signup with social login. If they have an existing account, they can SignIn.
-Once the user has logged in, in the My Accounts page the user can see the option to Generate API keys
-User can generate the unqiue API key, which will be secure. 
-User can see the list of all the generated API keys
+Once the user has logged in, on the My Accounts page the user can see the option to Generate API keys
+Users can generate a unique API key, which will be secure. 
+Users can see the list of all the generated API keys
 A user can generate any number of API keys and the API key should be secured so no one can store it. 
 
 # Credits
-As a first time user, the user will get given 100 Credits that can be used against any application.
-In order to use the APIs after the 100 Credits are exhausted, they need to add credits to their Wallet
+As a first-time user, the user will get given 100 Credits that can be used against any application.
+To use the APIs after the 100 Credits are exhausted, they need to add credits to their Wallet
 The user can add Credits by clicking on the Credits Section, where the user can see the credits available and the option to ADD CREDITS
-Once the user clicks on ADD Credits, The user will be asked about the amount of Credits to Add like $10, $20, $30 or custom amount.
+Once the user clicks on ADD Credits, The user will be asked about the amount of Credits to Add like $10, $20, $30 or custom amount. Add Coupon Codes
 The user will be taken to a Payment Gateway by Stripe to make the payment
 Once the payment is done, the credits will be added to the application 
 The user can see the credits in their Login 
-The Credits 
+The Credits will get deducted as the APIs are consumed.
+We need to keep track of the credits consumed per APIs as a transaction record for the user to check on the their dashboard on the Transactions Section. 
+
+
