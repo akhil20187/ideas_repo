@@ -76,7 +76,7 @@ I'll provide you with the details of the data points and a description of the to
 
 Here are the details of the data points and a description of the tool-directory home page:
 
-Data Points for Each Tool:
+## Data Points for Each Tool:
 
       1. id: Unique identifier for the tool
       2. name: Name of the tool
@@ -87,7 +87,7 @@ Data Points for Each Tool:
       7. website: URL of the tool's website
 
 
-Tool Directory Home Page Description:
+## Tool Directory Home Page Description:
 
 The tool-directory home page is designed to showcase various software tools and AI products. It consists of several sections:
 
