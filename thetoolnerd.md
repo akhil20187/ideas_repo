@@ -78,13 +78,13 @@ Here are the details of the data points and a description of the tool-directory 
 
 Data Points for Each Tool:
 
-1. id: Unique identifier for the tool
-2. name: Name of the tool
-3. category: Category the tool belongs to (e.g., AI, Design, Development, Productivity)
-4. purpose: Brief description of the tool's main purpose
-5. description: A more detailed description of the tool
-6. upvotes: Number of upvotes the tool has received
-7. website: URL of the tool's website
+      1. id: Unique identifier for the tool
+      2. name: Name of the tool
+      3. category: Category the tool belongs to (e.g., AI, Design, Development, Productivity)
+      4. purpose: Brief description of the tool's main purpose
+      5. description: A more detailed description of the tool
+      6. upvotes: Number of upvotes the tool has received
+      7. website: URL of the tool's website
 
 
 Tool Directory Home Page Description:
