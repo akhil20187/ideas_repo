@@ -1,0 +1,3 @@
+I want to build a biography app. It is for people to create their own biographies where the user can have normal conversational or a chat based experience and the agent or the chatbot would actually understand what the customer is saying and transcript it and then categorize information to say childhood, adolescence, marriage, career, family etc. And then at the end when the user says why not now you generate a story for me it can actually generate the whole story considering all aspects of the life. The user can also select the style or narrative styles as a prompt which would be defined.
+
+The application can generate stories for specific things like childhood, a specific scenario, etc.. 
